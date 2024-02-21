@@ -11,7 +11,7 @@
 
 
 
-## กดเบาๆ-ปัญญาประดิษฐ์ ฉันตัดความสลับซับซ้อนออกเเล้ว เเต่ทำได้เพียง
+## Click RobotChat! ฉันตัดความสลับซับซ้อนออกเเล้ว เเต่ทำได้เพียง
 
 [![Release](https://img.shields.io/github/release/Requarks/wiki.svg?style=flat&maxAge=3600)](https://github.com/Requarks/wiki/releases)
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg?style=flat)](https://github.com/requarks/wiki/blob/master/LICENSE)
