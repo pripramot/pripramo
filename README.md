@@ -2,9 +2,8 @@
  
 
 
+![exp-copilot-js.png](https://res.cloudinary.com/dcwjok3nu/image/upload/v1708601397/pri/exp-copilot-js.png)
 
-
-![ms](https://res.cloudinary.com/dcwjok3nu/image/upload/v1708600916/pri/Microsoft_chat.png)
 
  </div>
 
