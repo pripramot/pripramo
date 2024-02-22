@@ -1,6 +1,6 @@
 
 
-  
+
  <picture>
     <a href="https://edgeservices.bing.com/edgesvc/chat?udsframed=1&form=SHORUN&clientscopes=chat,noheader,udsedgeshop,channelstable,ntpquery,udsinwin10,udsdlpconsent,udscheartbeat,cspgrd,&shellsig=7a9cca09863d8aef60265cd412f816e7f52b1deb&setlang=th&darkschemeovr=1"
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_light_wx0vb8.svg">
