@@ -10,6 +10,7 @@
 
 
 ## Click RobotChat! ฉันตัดความสลับซับซ้อนออกเเล้ว เเต่ทำได้เพียง
+![Static Badge](https://img.shields.io/badge/Mint_-Jiraphinya-blue?link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya)
 ![GitHub watchers](https://img.shields.io/github/watchers/pripramot/pripramot)
 [![Release](https://img.shields.io/github/release/Requarks/wiki.svg?style=flat&maxAge=3600)](https://github.com/Requarks/wiki/releases)
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg?style=flat)](https://github.com/requarks/wiki/blob/master/LICENSE)
