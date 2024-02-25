@@ -1,0 +1,8 @@
+.image-container {
+  text-align: center;
+}
+
+.image {
+  max-width: 200px;
+  border: 1px solid #ddd;
+}
