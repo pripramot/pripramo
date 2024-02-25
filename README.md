@@ -61,6 +61,9 @@
 }
 ```
 
+| XPath | JSONPath | Result |
+|---|---|---|
+| /store/book/author | $.store.book[*].author| the authors of all books in the store |
 
 
 
