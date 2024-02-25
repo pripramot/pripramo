@@ -1,11 +1,9 @@
-<div align="center">
- 
+<div class="image-container">
+  <a href="https://github.com/pripramot/i-studio">
+    <img src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1708601397/pri/exp-copilot-js.png" alt="GitHub repository" class="image">
+  </a>
+</div>
 
-
-![exp-copilot-js.png](https://res.cloudinary.com/dcwjok3nu/image/upload/v1708601397/pri/exp-copilot-js.png)
-
-
- </div>
 
 
 
