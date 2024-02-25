@@ -52,7 +52,10 @@
     }
   }
 }
+
 ```
+
+short formn
 
 | XPath | JSONPath | Result |
 |---|---|---|
@@ -63,19 +66,7 @@
 | //book[3] | $..book[2] |	the third book |
 | //book[last()] | .. | .. |
 
-
-
-
-
-
-- **[Official Website](myapp)**
-- **[Documentation](https://docs.ai-jiraphinya.io/)**
-
-
-
-
-
-<h2 align="center">Sponsors</h2>
+<h2 align="center">On the other hand</h2>
 
 <div align="center">
 <table>
@@ -91,12 +82,12 @@
 </table>
 </div>
 
-<h2 align="center">GitHub Sponsors</h2>
+<h2 align="center">Create a simple food menu</h2>
 
-เทมเพลตโอเพ่นซอร์ส ฟรี สำหรับสร้างเว็บไซต์ของคุณโดยใช้ Astro 4.0+Tailwind CSS. พร้อมสำหรับการเริ่มโครงการใหม่และออกแบบ เรียบง่าย ยึดถือแนวทางปฏิบัติที่ดีที่สุด.! [[Become a sponsor](https://github.com/users/NGPixel/sponsorship)]
-
+### Create a simple food menu
+Hide something before placing the desired menu.⏬🦋Press to view
 <details>
-<summary>Phra Aphai Mani 💬 🦋</summary>
+<summary>Phra Aphai Mani 🦋</summary>
 <div align="center">
 <table>
   <tbody>
@@ -181,7 +172,7 @@
 <summary>My Repositories 💬 🦋</summary>
 <table><tbody><tr><td>
 <img width="441" height="1" />
-
+<details>
 
 </td><td>
 <img width="441" height="1" />
@@ -211,3 +202,4 @@
 [ngrok](https://ngrok.com) for providing access to their great HTTP tunneling services.
 
 ---
+เทมเพลตโอเพ่นซอร์ส ฟรี สำหรับสร้างเว็บไซต์ของคุณโดยใช้ Astro 4.0+Tailwind CSS. พร้อมสำหรับการเริ่มโครงการใหม่และออกแบบ เรียบง่าย ยึดถือแนวทางปฏิบัติที่ดีที่สุด.! 
