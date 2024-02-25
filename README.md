@@ -7,15 +7,18 @@
 </div>
 
 
+# Pripramot
 
+<div align="center">
+  <a href="https://github.com/ai-jiraphinya">
+    <img src="https://img.shields.io/badge/Mint_-Jiraphinya-blue?link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya" alt="Mint_ - Jiraphinya badge">
+  </a>
+  <a href="https://github.com/pripramot/pripramot/watchers">
+    <img src="https://img.shields.io/github/watchers/pripramot/pripramot" alt="GitHub watchers badge">
+  </a>
+</div>
 
-
-
-
-![ai-jiraphinya](https://img.shields.io/badge/Mint_-Jiraphinya-blue?link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya)![GitHub watchers](https://img.shields.io/github/watchers/pripramot/pripramot)
-![GitHub watchers](https://img.shields.io/github/watchers/pripramot/pripramot)
-
-## align="center" โครงสร้าง JSON ง่ายๆ ที่สร้างขึ้นตามตัวอย่าง XML ที่แสดงถึงร้านหนังสือ
+## โครงสร้าง JSON ง่ายๆ ที่สร้างขึ้นตามตัวอย่าง XML ที่แสดงถึงร้านหนังสือ
 
 ```json
 { "store": {
