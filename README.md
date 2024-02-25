@@ -55,7 +55,7 @@
 
 ```
 
-short form
+**short form**
 
 | XPath | JSONPath | Result |
 |---|---|---|
@@ -168,14 +168,7 @@ Hide something before placing the desired menu.⏬🦋Press to view
   </tbody>
 </table>
 
-<details>
-<summary>My Repositories 💬 🦋</summary>
-<table><tbody><tr><td>
-<img width="441" height="1" />
-<details>
 
-</td><td>
-<img width="441" height="1" />
 
 
 
