@@ -1,17 +1,22 @@
-<div class="image-container">
-  <a href="https://github.com/pripramot/i-studio">
-    <img src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1708601397/pri/exp-copilot-js.png" alt="GitHub repository" class="image">
-  </a>
+<div align="center">
+  <div class="image-container">
+    <a href="https://github.com/pripramot/i-studio">
+      <img src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1708601397/pri/exp-copilot-js.png" alt="GitHub repository" class="image">
+    </a>
+  </div>
 </div>
 
 
 
 
-## Click RobotChat! ฉันตัดความสลับซับซ้อนออกเเล้ว เเต่ทำได้เพียง
+
+
+
 ![ai-jiraphinya](https://img.shields.io/badge/Mint_-Jiraphinya-blue?link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya)![GitHub watchers](https://img.shields.io/github/watchers/pripramot/pripramot)
 ![GitHub watchers](https://img.shields.io/github/watchers/pripramot/pripramot)
 
-โครงสร้าง JSON ง่ายๆ ที่สร้างขึ้นตามตัวอย่าง XML ที่แสดงถึงร้านหนังสือ
+## align="center" โครงสร้าง JSON ง่ายๆ ที่สร้างขึ้นตามตัวอย่าง XML ที่แสดงถึงร้านหนังสือ
+
 ```json
 { "store": {
     "book": [ 
@@ -56,9 +61,9 @@
 | //book[last()] | .. | .. |
 
 
-##### A modern, lightweight and powerful  app built on NodeJS
 
-</div>
+
+
 
 - **[Official Website](myapp)**
 - **[Documentation](https://docs.ai-jiraphinya.io/)**
