@@ -55,7 +55,7 @@
 
 ```
 
-short formn
+short form
 
 | XPath | JSONPath | Result |
 |---|---|---|
