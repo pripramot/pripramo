@@ -1,10 +1,11 @@
-<div align="center">
+
   <div class="image-container">
     <a href="https://github.com/pripramot/i-studio">
-      <img src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1708601397/pri/exp-copilot-js.png" alt="GitHub repository" class="image">
+      <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709320098585/ad7c1903-a3fb-4d9b-8408-dcba8d278bbf.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto"></p>
     </a>
   </div>
-</div>
+
+
 
 
 # Pripramot
