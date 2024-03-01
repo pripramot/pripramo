@@ -3,8 +3,11 @@
       <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709320098585/ad7c1903-a3fb-4d9b-8408-dcba8d278bbf.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto"></p>
     </a>
   </div>
-  
+
 <div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Github-Pripramot-blue?logo=ankermake&logoColor=blue" alt="mu_ - Pripramot badge">
+  </a>
   <a href="https://github.com/ai-jiraphinya">
     <img src="https://img.shields.io/badge/Mint_-Jiraphinya-blue?link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya" alt="Mint_ - Jiraphinya badge">
   </a>
