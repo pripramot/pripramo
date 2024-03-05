@@ -174,9 +174,17 @@ Hide something before placing the desired menu.⏬🦋Press to view
      <div class="image-container">
  <img alt="Dharma API Database for Collecting &quot;Local Buddhism Digital Media Content&quot;" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707775969526/b307fcf3-e031-4613-b2eb-b82fd44730fd.png?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=compress,format&amp;format=webp" decoding="async" data-nimg="responsive" class="mb-0 block w-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
  <div class="image-container">
+<br
+
+เตือนตนเองสิ่งที่ห้ามมองข้ามในการทำ SEO
+สิ่งที่ทำให้img alt  Google เข้าใจเนื้อหาต่างๆ บนรูปภาพที่อยู่บนเว็บไซต์ของเราได้มากกว่าเดิม
+decoding="async"ตทริบิวต์จะบอกเบราว์เซอร์ว่าการถอดรหัสรูปภาพสามารถทำได้ในภายหลัง
+เพื่อให้เบราว์เซอร์สามารถแสดงเนื้อหาต่อไปได้แม้ว่ารูปภาพจะยังโหลดไม่ครบถ้วนก็ตาม
 
 ```java
+
 <img alt="Dharma API Database for Collecting &quot;Local Buddhism Digital Media Content&quot;" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707775969526/b307fcf3-e031-4613-b2eb-b82fd44730fd.png?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=compress,format&amp;format=webp" decoding="async" data-nimg="responsive" class="mb-0 block w-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+
 ``` 
 
 
