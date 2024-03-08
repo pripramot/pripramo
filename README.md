@@ -20,9 +20,9 @@
 </div>
 
 ## โครงสร้าง JSON ง่ายๆ ที่สร้างขึ้นตามตัวอย่าง XML ที่แสดงถึงร้านหนังสือ
-
 <details>
 <summary>short-form.🔽</summary>
+
   
 ```json
 { "store": {
@@ -59,8 +59,7 @@
 
 ```
 
-<details>
-<summary>short-form.🔽</summary>
+
 
 | XPath | JSONPath | Result |
 |---|---|---|
@@ -71,7 +70,7 @@
 | //book[3] | $..book[2] |	the third book |
 | //book[last()] | .. | .. |
 
-</details>
+
 <h2 align="center">On the other hand</h2>
 
 <div align="center">
