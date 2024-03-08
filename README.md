@@ -5,6 +5,9 @@
   </div>
 
 <div align="center">
+  <a aria-label="Join the community on Slack" href="https://mtify.hashnode.dev">
+    <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Github-Pripramot-blue?logo=ankermake&logoColor=blue" alt="mu_ - Pripramot badge">
   </a>
@@ -18,6 +21,9 @@
 
 ## โครงสร้าง JSON ง่ายๆ ที่สร้างขึ้นตามตัวอย่าง XML ที่แสดงถึงร้านหนังสือ
 
+<details>
+<summary>short-form.🔽</summary>
+  
 ```json
 { "store": {
     "book": [ 
@@ -222,3 +228,4 @@ decoding="async"ตทริบิวต์จะบอกเบราว์เ�
 [ngrok](https://ngrok.com) for providing access to their great HTTP tunneling services.
 
 ---
+</details>
