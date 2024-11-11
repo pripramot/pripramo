@@ -59,18 +59,6 @@
 
 ```
 
-
-
-| XPath | JSONPath | Result |
-|---|---|---|
-| /store/book/author | $.store.book[*].author| the authors of all books in the store |
-| //author	| $..author	| all authors |
-| /store/* | 	$.store.* | 	all things in store, which are some books and a red bicycle. |
-| /store//price | 	$.store..price | 	the price of everything in the store. |
-| //book[3] | $..book[2] |	the third book |
-| //book[last()] | .. | .. |
-
-
 <h2 align="center">On the other hand</h2>
 
 <div align="center">
