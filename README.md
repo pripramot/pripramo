@@ -19,7 +19,6 @@
   </a>
 </div>
 
-<img src="https://camo.githubusercontent.com/69f1897cde039671aa048d60f05295ccc4b29263cbb5141b307f1c83d37d68f0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=antonkomarev&amp;style=for-the-badge" style="max-width: 100%;">
 
 
 ## Warning: This profile and its associated storage are strictly for my personal use only. No unauthorized access or sharing of contents is permitted.
@@ -176,6 +175,9 @@ Hide something before placing the desired menu.⏬🦋Press to view
 สิ่งที่ทำให้img alt  Google เข้าใจเนื้อหาต่างๆ บนรูปภาพที่อยู่บนเว็บไซต์ของเราได้มากกว่าเดิม
 decoding="async"ตทริบิวต์จะบอกเบราว์เซอร์ว่าการถอดรหัสรูปภาพสามารถทำได้ในภายหลัง
 เพื่อให้เบราว์เซอร์สามารถแสดงเนื้อหาต่อไปได้แม้ว่ารูปภาพจะยังโหลดไม่ครบถ้วนก็ตาม
+
+<img src="https://camo.githubusercontent.com/69f1897cde039671aa048d60f05295ccc4b29263cbb5141b307f1c83d37d68f0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=antonkomarev&amp;style=for-the-badge" style="max-width: 100%;">
+
 
 ```java
 
