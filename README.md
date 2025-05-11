@@ -1,10 +1,9 @@
-  <div class="image-container">
-    <a href="#">
-      <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709320098585/ad7c1903-a3fb-4d9b-8408-dcba8d278bbf.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto"></p>
-    </a>
-  </div>
+
 
 <div align="center">
+      <a href="#">
+      <p><img loading="lazy" src="https://rstr.in/uglogcfw1stdna/images/eJ54HxDn4Um" alt="" class="image--mx-auto"></p>
+    </a>
   <a aria-label="Join the community on Slack" href="https://mtify.hashnode.dev">
     <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
   </a>
